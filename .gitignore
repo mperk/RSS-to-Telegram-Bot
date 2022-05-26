@@ -56,7 +56,7 @@ experimental/**/*.db
 .next
 .vscode/
 .nuxt
-config/*
+# config/*
 # *.env
 *.env.production
 *.env.staging
